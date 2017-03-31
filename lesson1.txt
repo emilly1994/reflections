@@ -1,0 +1,22 @@
+1- It showed clearly what have been changed by marking the new lines and the removed lines.
+
+2- It can give the programmer more flexiblty to expermint without losing the correct codes 
+   that he/she already created. Also, it saves time allowing for more efficency.
+
+3- Pros:
+       -Nothing unnecessary will be saved.
+	   -Saves on major points of the development proccess.
+   Cons:
+	   -Might forget to save at an important point.
+	   -More steps to worry about.
+
+
+4- Because some of them look at the project as one unit that is connected, while others are
+   used for less complecated projects and doesn't need that complexity to it.
+
+5- Going through what have been done with git log first. Then, check the specific change
+   that you are intrested in using the git diff.
+
+6- It has a point of refrence that we know is working and can always go back to.
+
+7- To keep track of my work.
