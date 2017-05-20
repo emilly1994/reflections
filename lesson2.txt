@@ -7,7 +7,7 @@
 
 4- I think they would help if I need to experiment with my code. So I can saperate working code with expermintal and not lose the code I am confident of.
 
-How do the diagrams help you visualize the branch structure?
+5- they show where the commits are located and how to reach them.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
