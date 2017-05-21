@@ -1,8 +1,12 @@
 1- I would keep them remote if I need to work on them with other people or wish to access them from different places.
 
-2- Because I might have modified the local version and pulling would cause the modifications to be changed back to their original state.
+2- Because I might have modified the local version and pulling would cause the modifications to be changed back to 
+   their original state.
 
 3- Branch: is used to make a version of the work without affecting the main version.
    Clone: is a copy of the work usually used to copy a repository from GitHub to be accessed locally.
-   Fork: is a type of clone used internally within GitHub where you can clone another repository to your account with a link to the original.
+   Fork: is a type of clone used internally within GitHub where you can clone another repository to your account with
+   a link to the original.
 
+4- It minimies the probability of losing some work and ease in resolving conflicts when the local copy has a set of 
+   modification and the remote copy has a different set of modifications.
