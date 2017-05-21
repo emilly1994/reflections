@@ -1,1 +1,3 @@
-I would keep them remote if I need to work on them with other people or wish to access them from deifferent places.
+1- I would keep them remote if I need to work on them with other people or wish to access them from different places.
+
+2- Because I might have modified the local version and pulling would cause the modifications to be changed back to their original state.
