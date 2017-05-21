@@ -1,15 +1,14 @@
 1- It creates a .get directory which will be used to track the files.
 
-2- The staging area is a space to hold the files that will be commited to the repository from the working directory.
+2- The staging area is a space to hold the files that will be committed to the repository from the working directory.
    It connect the two and make it so that we can commit multiple files at the same time.
 
-3- By comparing changes to what have been done and decideng which files can be grouped togather in a logical way.
+3- By comparing changes to what have been done and deciding which files can be grouped together in a logical way.
 
-4- I think they would help if I need to experiment with my code. So I can saperate working code with expermintal and not lose the code I am confident of.
+4- I think they would help if I need to experiment with my code. So I can separate working code with experimental and not lose the code I am confident of.
 
 5- they show where the commits are located and how to reach them.
 
-6- It compaines the lines add from both versions and omit any deleted lines. We represent it in such a way to show that originaly there were two files and they both act as parents.
+6- It combine the lines add from both versions and omit any deleted lines. We represent it in such a way to show that originally there were two files and they both act as parents.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+7- The automatic way add some speed and efficiency to committing a merge that has an obvious changes so I wouldn't waste unnecessary time checking everything.
