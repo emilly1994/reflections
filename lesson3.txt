@@ -17,3 +17,8 @@
 5- I would send the basic files to the other collaborators and give each a task to fulfil
    then combine the different versions to gather and fix any bugs. It would be easier to
    use Git for the purpose as it can minimise errors and save time.
+
+6- It would be best to make changes on a separate branch when the changes you are making
+   are uncertine and can affect the useablity of the master branch if incomblete or wrong.
+   Thus, you would only apply changes on the master branch when you are certine of them and
+   want them.
